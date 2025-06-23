@@ -70,7 +70,7 @@ poo-php/
 
 ## ⚙️ Explicação das Partes
 
-### 1. `[classes_e_objetos.php](poo-php/exemplos/01_classes_e_objetos.php)`
+### 1. [classes_e_objetos.php](poo-php/exemplos/01_classes_e_objetos.php)
 Cria uma classe `Pessoa` com propriedades e um método para exibir informações.
 
 ### 2. `heranca.php`
