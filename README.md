@@ -2,9 +2,7 @@
 # 🧠 POO em PHP: Fundamentos Práticos
 
 <p align="center">
-  <img src="https://www.php.net/images/logos/php-logo.svg" alt="Logo PHP" width="120"/>
-  <img src="https://getcomposer.org/img/logo-composer-transparent5.png" alt="Logo Composer" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Object-Oriented_Programming.svg/640px-Object-Oriented_Programming.svg.png" alt="POO" width="130"/>
+  <img src="https://www.php.net/images/logos/php-logo.svg" alt="Logo PHP" width="240"/>
 </p>
 
 
