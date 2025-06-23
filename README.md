@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="img/pages.png" alt="Diagrama de classes em PHP" style="width:100%;max-width:600px;">
+<img src="img/pages.png" alt="Diagrama de classes em PHP" style="width:100%;max-width:300px;">
 
 > Repositório educativo sobre Programação Orientada a Objetos em PHP. Contém exemplos práticos dos principais conceitos de POO aplicados em PHP 7.4+.
 
