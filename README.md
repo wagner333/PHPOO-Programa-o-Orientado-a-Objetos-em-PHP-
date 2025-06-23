@@ -69,19 +69,19 @@ poo-php/
 ---
 
 ## ⚙️ Explicação das Partes
-### 1. [`01_classes_e_objetos.php`](poo-exemplos/01_classes_e_objetos.php)
+### 1. [`01_classes_e_objetos.php`](poo-php/exemplos/01_classes_e_objetos.php)
 Cria uma classe `Pessoa` com propriedades e um método para exibir informações.
 
-### 2. [`02_heranca.php`](poo-exemplos/02_heranca.php)
+### 2. [`02_heranca.php`](poo-php/exemplos/02_heranca.php)
 Demonstra como uma classe `Funcionario` pode herdar de `Pessoa` e adicionar novos métodos.
 
-### 3. [`03_polimorfismo.php`](poo-exemplos/03_polimorfismo.php)
+### 3. [`03_polimorfismo.php`](poo-php/exemplos/03_polimorfismo.php)
 Mostra como diferentes classes implementam o mesmo método de forma distinta.
 
-### 4. [`04_interfaces.php`](poo-exemplos/04_interfaces.php)
+### 4. [`04_interfaces.php`](poo-php/exemplos/04_interfaces.php)
 Define uma interface `Pagamento` com um método `pagar()`, e duas classes que a implementam.
 
-### 5. [`05_traits.php`](poo-exemplos/05_traits.php)
+### 5. [`05_traits.php`](poo-php/exemplos/05_traits.php)
 Apresenta como compartilhar métodos comuns entre classes com `trait Log`.
 
 ---
