@@ -1,9 +1,12 @@
 
 # 🧠 POO em PHP: Fundamentos Práticos
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/poo-php?style=for-the-badge)
-![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/seu-usuario/poo-php?style=for-the-badge)
+<p align="center">
+  <img src="https://www.php.net/images/logos/php-logo.svg" alt="Logo PHP" width="120"/>
+  <img src="https://getcomposer.org/img/logo-composer-transparent5.png" alt="Logo Composer" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Object-Oriented_Programming.svg/640px-Object-Oriented_Programming.svg.png" alt="POO" width="130"/>
+</p>
+
 
 <img src="php-oop.png" alt="Diagrama de classes em PHP" style="width:100%;max-width:600px;">
 
